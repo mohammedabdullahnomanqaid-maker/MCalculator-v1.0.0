@@ -1,4 +1,4 @@
-# 🧮 Simple-Calculator (v1.0.0)
+# 🧮 MCalculator (v1.0.0)
 «A clean and functional desktop calculator application built with C# and WinForms to master event handling, variable management, and fundamental arithmetic operations.»
 ---
 ## 📑 Table of Contents
