@@ -36,6 +36,7 @@ The system focuses heavily on clean variable management, precise arithmetic proc
 
 </details>
 ---
+
 ## <a id="architecture--design"></a>Architecture & Design
 - **Structured Logic:** Designed with clean code organization and modular event routing to efficiently process mathematical inputs and manage calculator states.
 ---
